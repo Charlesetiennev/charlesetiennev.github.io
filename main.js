@@ -8152,7 +8152,6 @@ __webpack_require__.r(__webpack_exports__);
 
 const routes = [
     { path: '', redirectTo: 'accueil', pathMatch: 'full' },
-    { path: '**', redirectTo: 'accueil' },
     // Public
     { path: 'accueil', component: _pagesRouter_accueil_accueil_component__WEBPACK_IMPORTED_MODULE_4__["AccueilComponent"] },
     { path: 'trouvezStage', component: _pagesRouter_trouvez_stage_trouvez_stage_component__WEBPACK_IMPORTED_MODULE_2__["TrouvezStageComponent"] },
